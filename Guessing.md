@@ -12,7 +12,7 @@ flowchart TD
     HighOrLow -- Yes --> TooHigh[Prompt Too High]
     HighOrLow -- No --> TooLow[Prompt Too Low]
     TooHigh --> UserInput
-    TooLow --> UserInput
+    TooLow --> UserInput```
 
 ```mermaid
 
@@ -30,4 +30,4 @@ flowchart TD
 6. **Is Guess Too High?**: The program determines if the guess is too high.
    - If the guess is too high, the user is prompted to guess a lower number.
    - If the guess is too low, the user is prompted to guess a higher number.
-7. **End**: The game ends when the user guesses the correct number.
+7. **End**: The game ends when the user guesses the correct number.```
