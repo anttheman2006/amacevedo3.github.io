@@ -1,4 +1,4 @@
-# amacevedo3.github.io
+# anttheman2006.github.io
 Anthony Acevedo
 amacevedo3@my.waketech.edu
 This is my school account.
@@ -12,6 +12,6 @@ This is the repo for the first lab.
 <ul>
 [FreedomInMotionGym](https://www.freedominmotiongym.com/parkouronline)</a> - This website offers you free online videos and tutorials and live interactive sessions with a dedicated Freedom in Motion coach over video call!</li>
 
-[GameSpot](https://www.gamespot.com/)</a> - Game Spot is a website that provides news, reviews, and other information about video games. Users can also write reviews, post on forums, and participate in tournaments.</li>
+[GameSpot](https://www.gamespot.com/)</a> - Game Spot is a website that providesÂ news, reviews, and other information about video games.Â Users can also write reviews, post on forums, and participate in tournaments.</li>
 </ul>
 
