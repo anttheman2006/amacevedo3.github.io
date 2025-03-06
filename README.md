@@ -2,7 +2,7 @@
 Anthony Acevedo
 amacevedo3@my.waketech.edu
 This is my school account.
-This is the repo for the first lab.
+This is the cloned repo for the first lab.
 <h1>About Me</h1>
 
 <h2>My Interests</h2>
